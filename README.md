@@ -1,3 +1,7 @@
+This is a fixed version of [https://github.com/ibitcy/react-native-hole-view](https://github.com/ibitcy/react-native-hole-view))
+
+
+
 ![Screenshot](misc/cover.png)
 
 [![npm](https://img.shields.io/npm/v/react-native-hole-view.svg)](https://npmjs.com/package/react-native-hole-view)
